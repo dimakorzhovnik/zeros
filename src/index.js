@@ -6,4 +6,5 @@ while (number > count) {
    zero = zero + Math.floor(number / count);
    count = count * 5;
   }
+return zero;
 }
